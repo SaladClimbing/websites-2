@@ -2,4 +2,8 @@
 title: "About"
 ---
 
-About this site
+## About Me
+
+My name is **Andrew Lucas**, and I have graduated from *Roane State Community College*.
+
+[Kane's Free Data Science Bootcamp](https://bootcamp.davidkane.info)
